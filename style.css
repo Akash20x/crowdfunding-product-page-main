@@ -303,7 +303,6 @@ margin-bottom: 3rem;
 
 .card.out-stock button {
   background-color: hsla(0, 0%, 18%, 0.7);
-  /* to make it non clickable  */
   cursor: no-drop;
 }
 
