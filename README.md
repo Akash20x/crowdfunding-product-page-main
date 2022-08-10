@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: 
-- Live Site URL: 
+- Solution URL: https://www.frontendmentor.io/solutions/crowdfunding-product-page-with-html-css-vanilla-js-Hr0y26wB9P
+- Live Site URL: https://akash20x.github.io/crowdfunding-product-page-main/
 
 ## My process
 
